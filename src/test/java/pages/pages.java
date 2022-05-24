@@ -10,7 +10,7 @@ public class pages {
 
 	public void launch(String url)
 	{
-		 System.setProperty("webdriver.chrome.driver", "D:\\ChromeDriver\\chromedriver.exe");  
+		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\arnab.adak\\eclipse-workspace\\Test\\browser\\chromedriver.exe");  
          
          // Instantiate a ChromeDriver class.     
     WebDriver driver=new ChromeDriver();  
